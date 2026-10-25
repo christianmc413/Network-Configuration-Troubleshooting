@@ -1,2 +1,2 @@
-# Cyberprojects
-Hands-on labs for Help Desk, IAM, SOC, and Windows troubleshooting
+# HelpDesk and Network Configuration Labs
+Hands-on labs for Help Desk and Windows troubleshooting
